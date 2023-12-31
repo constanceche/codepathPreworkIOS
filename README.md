@@ -2,11 +2,11 @@
 
 Submitted by: **Constance Chen**
 
-**Name of your app** is an app that... 
+**BasicApp** is an app that... 
 
-- Improve the UI by using different fonts/colors/background
-- Feel free to play around with other elements, such as image views, textfields, etc.
-- Iplement a way to change the color of the text as well
+- Introduces who I am through labels and personalized colors/images
+- Includes button to change the color of background
+- Includes button to change the color of text
 
 Time spent: **2** hours spent in total
 
@@ -37,7 +37,9 @@ Spotify
 - Discover Weekly Playlist: Personalized playlists updated weekly based on listening habits
 - Cross-Device Playback: Seamless transition of playback from one device to another (e.g., from phone to computer) without interrupting the listening experience
 
-App Idea: Finflow - Expense Tracking App
+App Idea: 
+
+Finflow - Expense Tracking App
   This app is designed as a comprehensive expense tracking and budget management tool, aimed at simplifying personal finance for users. It features an expense categorization system, which sorts expenditures into predefined or custom categories such as groceries, utilities, and dining, making it easy to track and analyze spending habits. Users can also set and monitor budgets across different categories, with tracking to ensure they stay on top of their financial goals. Additionally, the app will create visual analytics to give an overview of patterns through graphs to give users gain insights into their financial habits. The app will also includes bill reminders and alerts for upcoming bills or subscriptions to keep users informed and prepared for their financial commitments.
 
 ## Notes
