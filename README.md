@@ -21,7 +21,6 @@ The following **required** functionality is completed:
 
 <div>
     <a href="https://www.loom.com/share/ec09cd776df7412fb48688691e831554">
-      <p>Home | Loom - 30 December 2023 - Watch Video</p>
     </a>
     <a href="https://www.loom.com/share/ec09cd776df7412fb48688691e831554">
       <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/ec09cd776df7412fb48688691e831554-with-play.gif">
